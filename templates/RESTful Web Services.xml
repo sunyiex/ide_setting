@@ -1,0 +1,3 @@
+<templateSet group="RESTful Web Services">
+  <template name="con" value="a" description="标准controller" toReformat="false" toShortenFQNames="true" />
+</templateSet>
