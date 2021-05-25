@@ -3,7 +3,7 @@
     <property name="created">2021-04-21T14:18:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-05-25T13:56:21</property>
+    <property name="modified">2021-05-25T16:17:43</property>
     <property name="originalScheme">Hiberbee Dark</property>
   </metaInfo>
   <colors>
@@ -66,7 +66,7 @@
     <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="2e2e2e" />
     <option name="PRESENTATION_ASSISTANT_HINT_FOREGROUND" value="c8c8c8" />
     <option name="QUESTION_HINT" value="323232" />
-    <option name="READONLY_BACKGROUND" value="3c3f41" />
+    <option name="READONLY_BACKGROUND" value="242123" />
     <option name="RECENT_LOCATIONS_SELECTION" value="323232" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="7d7d7d" />
     <option name="RIGHT_MARGIN_COLOR" value="404040" />
@@ -797,25 +797,25 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="320a1e" />
+        <option name="BACKGROUND" value="690034" />
         <option name="ERROR_STRIPE_COLOR" value="ed005c" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="3c3c3c" />
+        <option name="BACKGROUND" value="757575" />
         <option name="ERROR_STRIPE_COLOR" value="4b4b4b" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="283c14" />
+        <option name="BACKGROUND" value="103e00" />
         <option name="ERROR_STRIPE_COLOR" value="9adf66" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="a1e32" />
+        <option name="BACKGROUND" value="646d" />
         <option name="ERROR_STRIPE_COLOR" value="4ddfea" />
       </value>
     </option>
@@ -32170,7 +32170,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f5f0e6" />
-        <option name="BACKGROUND" value="1e2122" />
+        <option name="BACKGROUND" value="242424" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
